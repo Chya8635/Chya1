@@ -27,4 +27,4 @@ Included plugins:
 
 Updater (Installer only):
 
-* WinGup (for Notepad++) v5.2.4
+* WinGup (for Notepad++) v5.2.4  123456
